@@ -6,4 +6,3 @@ I found this site https://musicinformationretrieval.com/ to be very helpful in u
    
 I used the laplacian segmentation method of McFee and Ellis (https://brianmcfee.net/papers/ismir2014_spectral.pdf) for analyzing song structure with spectral clustering.  
   
-Here's a copy of the notebook where you can run the algorithm on any song of your choice:  
