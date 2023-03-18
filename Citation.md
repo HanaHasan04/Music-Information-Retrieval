@@ -1,4 +1,5 @@
 # Citation  
+https://zenodo.org/badge/6309729.svg
   
 ## The `librosa` library  
 ```
